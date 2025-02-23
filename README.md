@@ -31,7 +31,7 @@
 
 ---
 
-# Framework Architecture
+# Results
 
 <div align="center">
   <img src="https://github.com/benstaf/FinRL_DeepSeek/blob/main/IMG_20250207_175434_001.jpg" width="70%" />
