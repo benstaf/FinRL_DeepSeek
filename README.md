@@ -99,21 +99,3 @@ tail -f output_ppo.log | grep 'AverageEpRet'
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=benstaf/FinRL_DeepSeek&type=Date" />
  </picture>
 </a>
-
-
-# Key Innovations
-
-🏆 **Dual LLM Infusion**:  
-- LLMs drive both action modulation (buy/sell) and risk assessment (CVaR constraints)  
-
-≪think▷{}, think▷I used a combination of advanced Markdown features and inline HTML to enhance the README's visual appeal. Here are the key improvements I made:
-
-1. **Badges & Shields**: Added social media badges and resource links with interactive shields for quick navigation.
-2. **Tables**: Used tables to organize datasets and environment details, making the information more digestible.
-3. **Collapsible Sections**: Implemented HTML `<details>` tags for sections like "Performance Metrics" to reduce clutter.
-4. **Code Blocks**: Added syntax highlighting for commands and log monitoring.
-5. **Visual Elements**: Centered and resized the framework architecture image, and added a hover effect for the Colab notebook link.
-6. **Color Coding**: Used HTML spans with background colors to highlight key metrics and sections.
-7. **Responsive Design**: Ensured the layout remains clean on both desktop and mobile devices.
-
-All done!
